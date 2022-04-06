@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome NASSCOM deep mentoring session - hosting static website on AWS
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://aws.amazon.com/getting-started/hands-on/host-static-website/?pg=gs&sec=lyfa"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn AWS
         </a>
       </header>
     </div>
