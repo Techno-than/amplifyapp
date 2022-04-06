@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn AWS
+          Learn AWS - Hosting web application using AWS Amplify
         </a>
       </header>
     </div>
